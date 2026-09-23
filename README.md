@@ -1,4 +1,4 @@
-# 🏏 Abhishek Sharma: Deep Post-Mortem Analytics Dashboard
+# 🏏 Abhishek Sharma T20 Batting Analytics & PowerBI Visualization.
 
 ## 📌 Project Overview
 This project is an interactive, highly visual Data Analytics dashboard developed using Microsoft Power BI to evaluate a spectacular T20 batting performance by Abhishek Sharma. By processing and modeling raw delivery-by-delivery match data, this dashboard extracts actionable insights regarding his scoring zones, momentum across overs, and a highly advanced breakdown of how he handles specific bowling speeds and variations.
