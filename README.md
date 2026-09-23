@@ -46,7 +46,7 @@ During the development phase, I tackled several advanced data modeling challenge
 
 ## 👨‍💻 Author
 
-**Bayzid Mostak**
+**Bayzid Mostak**<br>
 *Data Analyst & Visualization Expert*
 
 *   [LinkedIn] https://www.linkedin.com/in/bayzid-mostak-data-analyst/
